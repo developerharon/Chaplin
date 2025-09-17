@@ -1,4 +1,4 @@
-# Distributed URL Shortener - Microservices Project
+# Chaplin - Distributed URL Shortener
 
 A production-ready URL shortening service built with .NET microservices architecture, demonstrating modern DevOps practices and distributed system design patterns.
 
@@ -6,9 +6,9 @@ A production-ready URL shortening service built with .NET microservices architec
 
 This project showcases the development and deployment of a scalable, distributed URL shortening service similar to bit.ly or tinyurl. The focus is on demonstrating microservices architecture, containerization, orchestration, and comprehensive DevOps practices.
 
-**🌐 Live Demo**: https://short.yourdomain.com *(Will be updated with actual subdomain)*
-**📊 Monitoring Dashboard**: https://monitoring.yourdomain.com
-**📚 API Documentation**: https://api.yourdomain.com/swagger
+**🌐 Live Demo**: https://chaplin.yourdomain.com *(Will be updated with actual subdomain)*
+**📊 Monitoring Dashboard**: https://monitoring-chaplin.yourdomain.com
+**📚 API Documentation**: https://api-chaplin.yourdomain.com/swagger
 
 > **Note for Recruiters**: This is a fully functional, production-deployed system demonstrating real-world DevOps practices and distributed architecture patterns.
 
