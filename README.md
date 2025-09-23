@@ -46,10 +46,10 @@ This project showcases the development and deployment of a scalable, distributed
 
 #### Core Services
 - [ ] 🔄 **URL Shortener Service**
-  - [ ] 🔄 Create short URL endpoint
-  - [ ] 🔄 Redirect endpoint
+  - [ ] ✅ Create short URL endpoint
+  - [ ] ✅ Redirect endpoint
   - [ ] 🔄 Basic URL validation
-  - [ ] 🔄 PostgreSQL integration
+  - [ ] ✅ PostgreSQL integration
   - [ ] 🔄 Base62 encoding for short codes
 
 - [ ] 🔄 **Basic API Gateway**
